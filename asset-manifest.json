@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TheFrankie/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/TheFrankie/static/js/main.0e387e44.chunk.js",
+    "main.js.map": "/TheFrankie/static/js/main.0e387e44.chunk.js.map",
+    "runtime-main.js": "/TheFrankie/static/js/runtime-main.c4722bd7.js",
+    "runtime-main.js.map": "/TheFrankie/static/js/runtime-main.c4722bd7.js.map",
+    "static/js/2.e7c525dd.chunk.js": "/TheFrankie/static/js/2.e7c525dd.chunk.js",
+    "static/js/2.e7c525dd.chunk.js.map": "/TheFrankie/static/js/2.e7c525dd.chunk.js.map",
+    "static/js/3.aab3083f.chunk.js": "/TheFrankie/static/js/3.aab3083f.chunk.js",
+    "static/js/3.aab3083f.chunk.js.map": "/TheFrankie/static/js/3.aab3083f.chunk.js.map",
+    "index.html": "/TheFrankie/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/TheFrankie/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.e7c525dd.chunk.js.LICENSE.txt": "/TheFrankie/static/js/2.e7c525dd.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/TheFrankie/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4722bd7.js",
+    "static/js/2.e7c525dd.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.0e387e44.chunk.js"
+  ]
+}
